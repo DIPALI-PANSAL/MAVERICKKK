@@ -1,0 +1,7 @@
+SpeechRecognition
+wikipedia
+openai
+pyttsx3
+webbrowser
+numpy
+random
